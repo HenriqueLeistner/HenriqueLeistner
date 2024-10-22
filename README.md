@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Henrique! Faço estágio em programação na empresa EkoBrazil Inteligência Ecológica 🤙
+### Olá! Eu sou o Henrique! Sou Dev Jr na empresa EkoBrazil Inteligência Ecológica 🤙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riques_ss/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-leistner-9b301b2ba/)
