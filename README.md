@@ -18,7 +18,3 @@
  <div><br/>
 
 Apaixonado pela tecnologia, buscando aprendizado e conhecimento.
-
-### Cursando 📖
-    Analise e desenvolvimento de sistemas 🖥️
-    2º Semestre - UNISINOS
