@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-leistner-9b301b2ba/)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueLeistner&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueLeistner&radius=14&theme=github-dark&area=true&order=5&custom_title=Atividade%20Mensal&hide_border=true" height="250" alt="activity-graph graph"  />
 </div>
 
