@@ -47,6 +47,6 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueLeistner)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueLeistner&show_icons=true&theme=transparent)" />
   <br/>
 </div>
