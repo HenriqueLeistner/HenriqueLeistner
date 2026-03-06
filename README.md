@@ -47,7 +47,6 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seunomeusuario&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" />
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/HenriqueLeistner/github-readme-stats)" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunomeusuario&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=ffffff&bg_color=00000000" alt="Top Languages" />
 </div>
