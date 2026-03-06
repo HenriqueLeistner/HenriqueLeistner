@@ -13,7 +13,6 @@
 
 - 🔭 Atualmente trabalhando em **projetos Fullstack e aplicações web modernas**
 - 🌱 Constantemente aprimorando meus conhecimentos em **Arquitetura de Sistemas**
-- 💬 Pergunte-me sobre **Java, PHP, Node.js e Desenvolvimento Frontend**
 
 ---
 ## 🛠️ Tecnologias e Ferramentas
