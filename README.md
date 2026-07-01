@@ -89,66 +89,16 @@ Tenho experiência prática com:
 
 ---
 
-## Projeto em destaque: VC Uniformes
+## Projetos em destaque
 
-Desenvolvi o site institucional da VC Uniformes, uma confecção especializada em uniformes corporativos personalizados para empresas no Brasil e nos Estados Unidos.
+Uma seleção de projetos recentes que desenvolvi com foco em interface, performance, responsividade e conversão.
 
-### Stack aplicada
-
-- Next.js com App Router;
-- React e TypeScript;
-- Tailwind CSS;
-- Componentes no padrão shadcn/ui e Radix UI;
-- GSAP com ScrollTrigger;
-- Lenis para rolagem suave;
-- Framer Motion;
-- Lucide Icons;
-- Playwright para testes responsivos;
-- Deploy e previews de produção.
-
-### O que desenvolvi
-
-- Home institucional completa e orientada à conversão;
-- Página “Nossa história” com narrativa visual e animações GSAP;
-- Catálogo de modelos organizado por categorias;
-- Rotas dinâmicas com `generateStaticParams`;
-- Galerias reais de polos, camisetas, camisas, jalecos, scrubs, aventais, jaquetas, kits e bordados;
-- Carrossel automático e navegável de avaliações do Google;
-- Cards expansíveis para depoimentos longos;
-- Integração direta com WhatsApp e mensagens personalizadas;
-- Mapa de localização integrado;
-- Seções de vídeos, diferenciais, segmentos, processo, FAQ e chamadas para ação;
-- Header responsivo com menu lateral mobile;
-- Footer com navegação, contatos, redes sociais e dados empresariais;
-- Favicon, metadados, Open Graph e estrutura básica de SEO;
-- Identidade visual baseada na marca e nos materiais reais da empresa.
-
-### Experiência técnica adquirida
-
-- Organização de um projeto Next.js por componentes, dados e rotas;
-- Modelagem de catálogos tipados com TypeScript;
-- Construção de componentes reutilizáveis;
-- Controle de estados e interações com React Hooks;
-- Animações de entrada, progresso, parallax e scroll com GSAP;
-- Compatibilidade com `prefers-reduced-motion`;
-- Otimização de imagens com `next/image`;
-- Tratamento de layouts horizontais, carrosséis e galerias;
-- Responsividade testada em larguras de 360px a 1366px;
-- Identificação e correção de overflow horizontal;
-- Testes automatizados de rotas, interações e renderização com Playwright;
-- Validação contínua com builds de produção;
-- Fluxo de trabalho com branches, commits e push para GitHub;
-- Pesquisa de referências e análise de sites concorrentes antes da implementação;
-- Pesquisa e extração de referências web com Firecrawl;
-- Uso de ferramentas de IA como apoio ao desenvolvimento, revisão e produtividade;
-- Evolução do projeto baseada em feedback real do cliente.
-
-### Resultado
-
-O projeto evoluiu de uma landing page estática para uma aplicação institucional completa, com páginas dinâmicas, conteúdo real, animações, catálogo visual, provas sociais e experiência adaptada para dispositivos móveis e desktops.
-
-Repositório:
-[github.com/HenriqueLeistner/VcUniformesInstitucional](https://github.com/HenriqueLeistner/VcUniformesInstitucional)
+| Projeto | Stack | O que foi desenvolvido | Preview |
+| --- | --- | --- | --- |
+| **Eko Royal Car** | Next.js, React, TypeScript, Tailwind CSS, Radix UI, GSAP, Lenis e Lucide Icons | Landing page de produto automotivo premium, com estrutura de oferta, benefícios, prova social, FAQ, etapas de compra, segurança, garantias, páginas de política e CTA de conversão. | [Acessar preview](https://eko-royal-car.vercel.app/) |
+| **Eko Snow Car** | Next.js, React, TypeScript, Tailwind CSS, Radix UI, GSAP, Lenis e Lucide Icons | Landing page nacional para shampoo automotivo concentrado, com seções de aplicações, comparativo, especificações, avaliações, oferta, políticas, CTA flutuante e fluxo direto para conversão. | [Acessar preview](https://eko-snow-car.vercel.app/) |
+| **SindLojas Cachoeirinha** | Next.js, React, TypeScript, Tailwind CSS, Radix UI, React Hook Form, Zod e Sonner | Site institucional completo para sindicato, com páginas internas, notícias, eventos, galeria, estatuto, dissídio coletivo, assessoria jurídica, rede de descontos, parceiros e formulário de associação. | [Acessar preview](https://sind-lojas-new.vercel.app/) |
+| **VC Uniformes** | Next.js, React, TypeScript, Tailwind CSS, Radix UI, GSAP, Lenis, Framer Motion e Playwright | Site institucional com catálogo de modelos, página de história, rotas dinâmicas, galerias, vídeos, avaliações, segmentos atendidos, processo comercial, mapa e integração com WhatsApp. | [Acessar preview](https://vc-uniformes-institucional.vercel.app/) |
 
 ---
 
@@ -166,6 +116,5 @@ Repositório:
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueLeistner&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Henrique Leistner" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLeistner&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas por Henrique Leistner" />
 </div>
